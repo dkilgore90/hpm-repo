@@ -1,0 +1,18 @@
+{
+  "author": "David Kilgore",
+  "gitHubUrl": "https://github.com/dkilgore90",
+  "packages": [
+    {
+      "name": "Google SDM API - Nest Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/dkilgore90/google-sdm-api/master/packageManifest.json",
+      "description": "An app with coordinating drivers for monitoring and controlling Nest devices from Hubitat Elevation",
+      "tags": [
+        "Temperature & Humidity",
+        "Safety & Security",
+        "Motion Control"
+      ],
+      "id": "70828165-4744-4077-9f9c-092f89bb0d38"
+    }
+  ]
+}
