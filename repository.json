@@ -1,28 +1,41 @@
 {
-  "author": "David Kilgore",
-  "gitHubUrl": "https://github.com/dkilgore90",
-  "packages": [
-    {
-      "name": "Google SDM API - Nest Integration",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/dkilgore90/google-sdm-api/master/packageManifest.json",
-      "description": "An app with coordinating drivers for monitoring and controlling Nest devices from Hubitat Elevation",
-      "tags": [
-        "Temperature & Humidity",
-        "Safety & Security",
-        "Motion Control"
-      ],
-      "id": "70828165-4744-4077-9f9c-092f89bb0d38"
-    },
-    {
-      "id": "7021a020-026c-4923-b2f0-63390c242a68",
-      "name": "iRobot Scheduler",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/dkilgore90/iRobot/master/Roomba/packageManifest.json",
-      "description": "iRobot Scheduler is an application and device that enables local execution and scheduling of Roomba and Brava cleaning tasks in assistance with a Raspberry Pi running Dorita980 and Rest980. This application and device works with ALL WiFi enabled Roomba and Braava devices.",
-      "tags": [
-        "Cleaning Devices"
-      ]
+    "author": "David Kilgore",
+    "gitHubUrl": "https://github.com/dkilgore90",
+    "packages": [
+        {
+            "name": "Google SDM API - Nest Integration",
+            "category": "Integrations",
+            "location": "https://raw.githubusercontent.com/dkilgore90/google-sdm-api/master/packageManifest.json",
+            "description": "An app with coordinating drivers for monitoring and controlling Nest devices from Hubitat Elevation",
+            "tags": [
+                "Temperature & Humidity",
+                "Safety & Security",
+                "Motion Control",
+                "Cloud"
+            ],
+            "id": "70828165-4744-4077-9f9c-092f89bb0d38"
+        },
+        {
+            "id": "7021a020-026c-4923-b2f0-63390c242a68",
+            "name": "iRobot Scheduler",
+            "category": "Integrations",
+            "location": "https://raw.githubusercontent.com/dkilgore90/iRobot/master/Roomba/packageManifest.json",
+            "description": "iRobot Scheduler is an application and device that enables local execution and scheduling of Roomba and Brava cleaning tasks in assistance with a Raspberry Pi running Dorita980 and Rest980. This application and device works with ALL WiFi enabled Roomba and Braava devices.",
+            "tags": [
+                "Cleaning Devices"
+            ]
+        },
+        {
+            "name": "Google Photos Slideshow",
+            "category": "Integrations",
+            "location": "https://raw.githubusercontent.com/dkilgore90/google-photos/blob/master/packageManifest.json",
+            "description": "Google Photos Slideshow is an app/driver combo to display a slideshow of images from an album your Google Photos library on a Hubitat dashboard",
+            "tags": [
+                "Cloud",
+                "Dashboards",
+                "Multimedia"
+        ],
+        "id": "1023181e-1da3-4800-a87f-e38d5eeece07"
     }
   ]
 }
