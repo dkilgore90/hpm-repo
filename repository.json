@@ -28,7 +28,7 @@
         {
             "name": "Google Photos Slideshow",
             "category": "Integrations",
-            "location": "https://raw.githubusercontent.com/dkilgore90/google-photos/blob/master/packageManifest.json",
+            "location": "https://raw.githubusercontent.com/dkilgore90/google-photos/master/packageManifest.json",
             "description": "Google Photos Slideshow is an app/driver combo to display a slideshow of images from an album your Google Photos library on a Hubitat dashboard",
             "tags": [
                 "Cloud",
