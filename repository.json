@@ -34,8 +34,19 @@
                 "Cloud",
                 "Dashboards",
                 "Multimedia"
-        ],
-        "id": "1023181e-1da3-4800-a87f-e38d5eeece07"
-    }
-  ]
+            ],
+            "id": "1023181e-1da3-4800-a87f-e38d5eeece07"
+        },
+        {
+            "name": "LIFX Enhanced Drivers",
+            "category": "Control",
+            "location": "https://raw.githubusercontent.com/dkilgore90/lifx-hubitat/main/packageManifest.json",
+            "description": "LIFX Enhanced Drivers utilize the built-in LIFX support in Hubitat, providing additional capabilities",
+            "tags": [
+                "LAN",
+                "Lights & Switches"
+            ],
+            "id": "4609bb08-df88-4275-b271-540c7c8553db"
+        }
+    ]
 }
